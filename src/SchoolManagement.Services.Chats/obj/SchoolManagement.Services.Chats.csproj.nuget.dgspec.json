@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Services.Chats\\SchoolManagement.Services.Chats.csproj": {}
+    "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Services.Chats\\SchoolManagement.Services.Chats.csproj": {}
   },
   "projects": {
-    "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Services.Chats\\SchoolManagement.Services.Chats.csproj": {
+    "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Services.Chats\\SchoolManagement.Services.Chats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Services.Chats\\SchoolManagement.Services.Chats.csproj",
+        "projectUniqueName": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Services.Chats\\SchoolManagement.Services.Chats.csproj",
         "projectName": "SchoolManagement.Services.Chats",
-        "projectPath": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Services.Chats\\SchoolManagement.Services.Chats.csproj",
+        "projectPath": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Services.Chats\\SchoolManagement.Services.Chats.csproj",
         "packagesPath": "C:\\Users\\sardo\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Services.Chats\\obj\\",
+        "outputPath": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Services.Chats\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sardo\\AppData\\Roaming\\NuGet\\NuGet.Config",

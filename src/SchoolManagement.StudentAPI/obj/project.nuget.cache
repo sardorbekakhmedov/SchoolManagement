@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PWsM3m3KRk/HFzt5aG1oyac9L/L3xUeGe2oV9NCejuZgFX09oscIVtI7/f1QngfwAvO0eJFdRPLKeiTaayVDAA==",
+  "dgSpecHash": "2fsdWIrW343o8jVIkPjMxbNH+AfwWfLfDh9rP/0KcJpNMUezdsp2lZonbEz1xdqDR2weDCojSTel4YFdGevQjw==",
   "success": true,
-  "projectFilePath": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.StudentAPI\\SchoolManagement.StudentAPI.csproj",
+  "projectFilePath": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.StudentAPI\\SchoolManagement.StudentAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sardo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\sardo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

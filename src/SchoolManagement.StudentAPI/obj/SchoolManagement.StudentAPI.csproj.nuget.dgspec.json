@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.StudentAPI\\SchoolManagement.StudentAPI.csproj": {}
+    "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.StudentAPI\\SchoolManagement.StudentAPI.csproj": {}
   },
   "projects": {
-    "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.StudentAPI\\SchoolManagement.StudentAPI.csproj": {
+    "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.StudentAPI\\SchoolManagement.StudentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.StudentAPI\\SchoolManagement.StudentAPI.csproj",
+        "projectUniqueName": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.StudentAPI\\SchoolManagement.StudentAPI.csproj",
         "projectName": "SchoolManagement.StudentAPI",
-        "projectPath": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.StudentAPI\\SchoolManagement.StudentAPI.csproj",
+        "projectPath": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.StudentAPI\\SchoolManagement.StudentAPI.csproj",
         "packagesPath": "C:\\Users\\sardo\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.StudentAPI\\obj\\",
+        "outputPath": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.StudentAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sardo\\AppData\\Roaming\\NuGet\\NuGet.Config",

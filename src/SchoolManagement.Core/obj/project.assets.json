@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Core\\SchoolManagement.Core.csproj",
+      "projectUniqueName": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Core\\SchoolManagement.Core.csproj",
       "projectName": "SchoolManagement.Core",
-      "projectPath": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Core\\SchoolManagement.Core.csproj",
+      "projectPath": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Core\\SchoolManagement.Core.csproj",
       "packagesPath": "C:\\Users\\sardo\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Core\\obj\\",
+      "outputPath": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sardo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.AdminAPI\\SchoolManagement.AdminAPI.csproj": {}
+    "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.AdminAPI\\SchoolManagement.AdminAPI.csproj": {}
   },
   "projects": {
-    "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.AdminAPI\\SchoolManagement.AdminAPI.csproj": {
+    "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.AdminAPI\\SchoolManagement.AdminAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.AdminAPI\\SchoolManagement.AdminAPI.csproj",
+        "projectUniqueName": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.AdminAPI\\SchoolManagement.AdminAPI.csproj",
         "projectName": "SchoolManagement.AdminAPI",
-        "projectPath": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.AdminAPI\\SchoolManagement.AdminAPI.csproj",
+        "projectPath": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.AdminAPI\\SchoolManagement.AdminAPI.csproj",
         "packagesPath": "C:\\Users\\sardo\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.AdminAPI\\obj\\",
+        "outputPath": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.AdminAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sardo\\AppData\\Roaming\\NuGet\\NuGet.Config",

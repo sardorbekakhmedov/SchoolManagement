@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Services.Students\\SchoolManagement.Services.Students.csproj",
+      "projectUniqueName": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Services.Students\\SchoolManagement.Services.Students.csproj",
       "projectName": "SchoolManagement.Services.Students",
-      "projectPath": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Services.Students\\SchoolManagement.Services.Students.csproj",
+      "projectPath": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Services.Students\\SchoolManagement.Services.Students.csproj",
       "packagesPath": "C:\\Users\\sardo\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Services.Students\\obj\\",
+      "outputPath": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Services.Students\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sardo\\AppData\\Roaming\\NuGet\\NuGet.Config",

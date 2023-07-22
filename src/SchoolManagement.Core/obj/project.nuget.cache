@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2VMuLpjKI72wiU9BoPkNsiAQp4O7yorVm//nzov40/yk5UmchqSQSZygvyUS7i+EkBE5Ag3uRNYiJDKELnmHVA==",
+  "dgSpecHash": "svGblq7eGYkMk5f8UJfXNXn00UZVFvZPWSxoR+TQqzSruk6nlOYNbRuhYLKxuiLFsI8xHn8yyxeAhCxuKcBPsw==",
   "success": true,
-  "projectFilePath": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Core\\SchoolManagement.Core.csproj",
+  "projectFilePath": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Core\\SchoolManagement.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

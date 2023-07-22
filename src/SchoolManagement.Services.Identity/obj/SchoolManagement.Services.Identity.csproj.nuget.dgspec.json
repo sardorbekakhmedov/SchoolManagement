@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Services.Identity\\SchoolManagement.Services.Identity.csproj": {}
+    "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Services.Identity\\SchoolManagement.Services.Identity.csproj": {}
   },
   "projects": {
-    "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Services.Identity\\SchoolManagement.Services.Identity.csproj": {
+    "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Services.Identity\\SchoolManagement.Services.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Services.Identity\\SchoolManagement.Services.Identity.csproj",
+        "projectUniqueName": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Services.Identity\\SchoolManagement.Services.Identity.csproj",
         "projectName": "SchoolManagement.Services.Identity",
-        "projectPath": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Services.Identity\\SchoolManagement.Services.Identity.csproj",
+        "projectPath": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Services.Identity\\SchoolManagement.Services.Identity.csproj",
         "packagesPath": "C:\\Users\\sardo\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\WepProjects\\SchoolManagement\\src\\SchoolManagement.Services.Identity\\obj\\",
+        "outputPath": "C:\\C#\\WepProjects\\SchoolManagementAPI\\src\\SchoolManagement.Services.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
